@@ -1,0 +1,7 @@
+In this project i developed a Spotify Clone that not only offers seamless music playback but also features a well-organized structure with different albums by various artists, each containing a selection of songs specific to that album. Users can enjoy core functionalities such as playing, pausing, and navigating through songs using **next** and **previous** buttons. 
+
+The app includes a volume bar for adjusting the sound levels and a timeline bar that allows users to fast forward or rewind within the current track. The current time and total track duration are displayed on the timeline for clear progress tracking. With an intuitive and user-friendly interface, this project offers a complete music streaming experience with the added benefit of album and artist organization, making it easy for users to explore music collections. 
+
+This project showcases my ability to implement complex functionality in a clean and responsive UI, mirroring key features found in popular music streaming platforms.
+
+You can see it by downloading code and running it VS code or any other compiler. 
